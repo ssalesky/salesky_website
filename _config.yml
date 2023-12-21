@@ -2,8 +2,8 @@
 title: Atmos. Turbulence @ OU
 email: salesky@ou.edu
 description: Academic webpage of Dr. Scott Salesky
-baseurl: ""
-url: ""
+baseurl: "~salesky/"
+url: "http://weather.ou.edu"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
