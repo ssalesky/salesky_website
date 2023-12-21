@@ -1,0 +1,22 @@
+- name: Dr. Scott T. Salesky
+  photo: head_shot.jpeg
+  info: Associate Professor of Meteorology, University of Oklahoma
+  email: salesky@ou.edu
+  # researchgate: https://www.researchgate.net/profile/Scott-Salesky/
+  scholar: https://scholar.google.com/citations?user=p07WqqwAAAAJ/
+  cv: /cv/salesky_cv_full.pdf
+  # cv: {{ site.url }}{{ site.baseurl }}/cv/salesky_cv_full.pdf
+  # github: 
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(2014) Ph.D. Meteorology, Pennsylvania State University"
+  education2: "(2010) M.S. Meteorology, Pennsylvania State University"
+  education3: "(2008) B.S. Science Education, Martin Luther College"
+  # education4: 
+  education1short: (2014) Ph.D. Meteorology, PSU
+  education2short: (2010) M.S. Meteorology, PSU
+  education3short: (2008) B.S. Education, MLC
+  # education4short: 
+  rank: Associate Professor
+  dept: School of Meteorology
+  univ: University of Oklahoma

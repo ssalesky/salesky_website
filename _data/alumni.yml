@@ -1,0 +1,25 @@
+- name: Kendra Gillis
+  photo: kendra.jpeg
+  duration: M.S. 2023
+  info: Ph.D. student in Physics at Brigham Young University (Provo, UT)
+
+- name: Brian Greene
+  photo: brian_finland.jpg
+  duration: Ph.D., 2023
+  info: Currently a postdoc in our lab
+
+- name: Dominic Candela
+  photo: dominic.jpg
+  duration: M.S. 2022 
+  info: Ph.D. student in Meteorology at OU
+
+- name: Robert van Kleeck
+  photo: robvk.jpg
+  duration: M.S. 2020
+  info: Air Quality Consultant, Environmental Resources Management (Boston, MA)
+
+- name: Briana Lynch
+  photo: briana.jpg
+  duration: M.S. 2019
+  info: Technical Project Manager, Boston Government Services (Golden, CO)
+  # email: exampleemail@gmail.com

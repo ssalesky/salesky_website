@@ -1,0 +1,98 @@
+# Site settings
+title: Atmos. Turbulence @ OU
+email: salesky@ou.edu
+description: Academic webpage of Dr. Scott Salesky
+baseurl: ""
+url: ""
+
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+# google_analytics_4: XXX
+# google_tag_manager: XXX
+
+# Footer info
+affiliation: >
+    <a href="http://meteorology.ou.edu/"> School of Meteorology </a><br/>
+    <a href="https://www.ou.edu/">The University of Oklahoma</a>
+
+# <i class="fa fa-solid fa-cloud"></i>
+
+location: >
+  120 David L. Boren Blvd. #5900 <br/>
+  Norman, OK 73072<br/>
+  <a href="https://goo.gl/maps/JcLK43LFJeUS93dq7"><i class="fa fa-solid fa-road"></i> Visit us</a> 
+
+contact: >
+    <a href="mailto:salesky@ou.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Email Scott</a> <br/>
+    <a href="/vacancies/"><i class="fa fa-solid fa-users"></i> Explore openings</a> <br/>
+    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Site template</a>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: team
+  - name: research
+  - name: publications
+  - name: teaching
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+mathjax: true
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+plugins: ['jekyll/scholar']
+
+scholar:
+
+  last_name: Doe
+  first_name: [John]
+
+  style: citesty
+  locale: en
+
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  group_by: year
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile

@@ -1,0 +1,42 @@
+- name: Brian Greene
+  photo: brian_finland.jpg
+  info: Postdoc, 2023--present
+  email: brian.greene@ou.edu
+  website: http://wxbrain.oucreate.com
+  researchgate: https://www.researchgate.net/profile/Brian-Greene-2
+  linkedin: https://www.linkedin.com/in/brian-greene-52517767
+  scholar: https://scholar.google.com/citations?user=9zJp_DEAAAAJ&hl=en
+  github: https://github.com/bgreene777
+
+- name: Logan Roy
+  photo: logan.jpg
+  # photo: sasquatch.jpg
+  info: Ph.D. student, 2023--present
+  email: exampleemail@gmail.com
+  # website: https://website.com
+
+- name: Claire Doyle
+  photo: Doyle-Claire.jpg
+  info: M.S. student, 2022--present
+  email: claire.m.doyle-1@ou.edu
+  # website: https://website.com
+
+- name: Leia Otterstatter
+  photo: leia.jpg
+  info: M.S. student, 2023--present
+  email: leia.m.otterstatter-1@ou.edu
+  # website: https://website.com
+  researchgate: https://www.researchgate.net/profile/Leia-Otterstatter
+  linkedin: https://www.linkedin.com/in/leiaotterstatter
+
+- name: Robby Frost
+  photo: robby.jpg
+  info: Undergraduate researcher, 2022--present
+  email: robby@ou.edu
+  # website: https://website.com
+  linkedin: https://www.linkedin.com/in/robbyfrost/
+  github: https://github.com/robbyfrost
+
+- name: "This could be you !"
+  photo: sasquatch.jpg
+  info: See <a href="../vacancies/">openings</a> for more info
