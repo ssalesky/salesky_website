@@ -26,29 +26,31 @@ page](../research) to learn more.
 <h4>Open Postdoctoral Scholar Position</h4> 
 <h5> July 10, 2023</h5>
 
-We have a current opening for a postdoctoral scholar, who will work in the
-broad area of numerical modeling of turbulence in clouds. This position is
-funded by a National Science Foundation grant which seeks to improve subgrid
-scale models of interactions between turbulence and microphysical processes in
-clouds. The successful candidate should hold a Ph.D. in atmospheric science,
-meteorology, engineering, applied mathematics, computer science, or a closely
-related field. They should also possess excellent written and oral
-communication skills, and strong programming skills. Previous experience in
-Fortran, MPI programming, and high performance computing is preferred. The
-ideal candidate will also have previous research experience in turbulence,
-cloud microphysics, and/or large eddy simulation. Salary will be competitive
-and commensurate with experience and will include the generous OU benefits
-package. 
+Update: This position has been filled. Please stay tuned for future opportunities. 
 
-Interested applicants should send a cover letter detailing how they fit the
-required and preferred qualifications, a current CV, a list of three or more
-professional references, and a summary of recent work and research interests.
-All applications should be submitted electronically in a single PDF document to
-[Prof. Salesky](mailto:salesky@ou.edu). This appointment is for one year, and
-may be renewed for a second year pending satisfactory research performance. The
-start date will be in early fall of 2023, or early if at all possible. Review
-of applications will begin immediately and will continue until the position is
-filled. 
+<!-- We have a current opening for a postdoctoral scholar, who will work in the -->
+<!-- broad area of numerical modeling of turbulence in clouds. This position is -->
+<!-- funded by a National Science Foundation grant which seeks to improve subgrid -->
+<!-- scale models of interactions between turbulence and microphysical processes in -->
+<!-- clouds. The successful candidate should hold a Ph.D. in atmospheric science, -->
+<!-- meteorology, engineering, applied mathematics, computer science, or a closely -->
+<!-- related field. They should also possess excellent written and oral -->
+<!-- communication skills, and strong programming skills. Previous experience in -->
+<!-- Fortran, MPI programming, and high performance computing is preferred. The -->
+<!-- ideal candidate will also have previous research experience in turbulence, -->
+<!-- cloud microphysics, and/or large eddy simulation. Salary will be competitive -->
+<!-- and commensurate with experience and will include the generous OU benefits -->
+<!-- package. --> 
+
+<!-- Interested applicants should send a cover letter detailing how they fit the -->
+<!-- required and preferred qualifications, a current CV, a list of three or more -->
+<!-- professional references, and a summary of recent work and research interests. -->
+<!-- All applications should be submitted electronically in a single PDF document to -->
+<!-- [Prof. Salesky](mailto:salesky@ou.edu). This appointment is for one year, and -->
+<!-- may be renewed for a second year pending satisfactory research performance. The -->
+<!-- start date will be in early fall of 2023, or early if at all possible. Review -->
+<!-- of applications will begin immediately and will continue until the position is -->
+<!-- filled. --> 
 
 </div>
 </div>

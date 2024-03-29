@@ -9,6 +9,7 @@ permalink: /teaching/
 
 #### 2023-2024
 
+- **[Fall]** &ensp; METR 2004: Atmospheric Circulations
 - **[Spring]** &ensp; METR 5103: Boundary Layer Meteorology
 
 #### 2022-2023
